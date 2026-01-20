@@ -1,6 +1,6 @@
-#  SECTRAIN — Security Trainer Chatbot for Secure Programming
+#  Cyber-Security-Chatbot — Security Trainer Chatbot for Secure Programming
 
-**SECTRAIN** is a local, AI-powered chatbot designed to help students and developers learn about **secure programming**, **OWASP**, **CVE vulnerabilities**, and **cybersecurity practices** using natural language.  
+It is a local, AI-powered chatbot designed to help students and developers learn about **secure programming**, **OWASP**, **CVE vulnerabilities**, and **cybersecurity practices** using natural language.  
 It uses a **Retrieval-Augmented Generation (RAG)** pipeline and runs fully **offline** — no internet or external API required.
 
 ---
@@ -10,8 +10,8 @@ It uses a **Retrieval-Augmented Generation (RAG)** pipeline and runs fully **off
 ###  Clone the Repository
 
 ```bash
-git clone https://github.com/kevinsangani988/sectrain.git
-cd sectrain
+git clone https://github.com/Uttam-5049/cyber-security-assistant.git
+cd cyber-security-assistant
 ```
 
 ---
